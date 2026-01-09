@@ -1,0 +1,9 @@
+public class NumberCount {
+    public static void main(String[] args) {
+    
+        int[] numbers = {123456789};
+        int count = numbers.length;
+
+        System.out.println("The number of elements in the array is: " + count);
+    }
+}
